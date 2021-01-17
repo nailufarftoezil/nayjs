@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Selamat Datang di <a href="https://nextjs.org">Nays.js!</a>
+          Selamat Datang di <a style={{ color: 'red' }} href="https://nextjs.org">Nays.js!</a>
         </h1>
 
         <p className={styles.description}>
